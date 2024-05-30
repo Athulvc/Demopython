@@ -1,0 +1,25 @@
+.banner{
+    background-color:pink;
+    width:100%;
+    height:200px;
+}
+
+.banner_text{
+
+top:50%
+left:50%
+position:absolute;
+transform:transform;
+
+
+
+}
+body {
+background-color: Beige;
+
+}
+body
+<nav class="navbar navbar-dark bg-primary">
+  <!-- Navbar content -->
+</nav>
+
